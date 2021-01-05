@@ -1,1 +1,1 @@
-# Primeiro projeto com base em html, css.
+# Primeiro stratacom base em html, css.
