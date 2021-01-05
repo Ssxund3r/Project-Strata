@@ -1,1 +1,1 @@
-# Primeiro stratacom base em html, css.
+# Primeiro strata com base em html, css.
